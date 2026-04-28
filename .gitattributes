@@ -1,0 +1,11 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+
+
+Create a regression testing enabled Maven pipeline using Azure devops for an online ticket booking system
+give me required java files and html files to add inside java/com/example/demo(java files using mvc)  resources/templates(html file) for login system so i need 
+model/user.java service/LoginService.java and contoller/Controller.java and login.html code
+i shld run this using mvn spring-boot:run and give me crt complete pom.xml file to run it crtly
+after that i slhd push this folder in git
+and login into azure devops add new pool agent and create pipeline 
+give me crt azure pipeline.yml code to get this ex sux=ccessfully done give everything crtly
